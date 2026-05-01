@@ -1,2 +1,2 @@
-# Loading-animation-webpage-
+# color-square-loader
 for attractive loading page
